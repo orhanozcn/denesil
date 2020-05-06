@@ -1,0 +1,2 @@
+# denesil
+Deneme yapıp silecegim
